@@ -8,6 +8,8 @@ This project provides a solution for quickly collecting precise as-built measure
 
 - **Reekon T1 Tape Measure**  
   [Reekon T1](https://www.reekon.tools/)
+
+  this uses the tape as a HID type  see instruction [here](https://support.reekon.tools/hc/en-us/articles/20026126134292-Keyboard-Mode-Bluetooth-Digital-Tape-Measure)
   
 - **Bosch Laser**  
   [Bosch GLM 50 C](https://www.boschtools.com/us/en/products/glm-50-c-0601072C10)
