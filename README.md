@@ -2,7 +2,7 @@
 
 ## 🛠️ Overview
 
-for the hackathon at Chicago Innovate - This project provides a solution for quickly collecting precise as-built measurement data in dynamic conditions, leveraging cutting-edge technology for real-time model updates. The process integrates Bluetooth-enabled measurement tools with augmented reality applications to streamline data capture and synchronization, reducing errors and improving project efficiency.
+For the hackathon at Chicago Innovate - This project provides a solution for quickly collecting precise as-built measurement data in dynamic conditions, leveraging cutting-edge technology for real-time model updates. The process integrates Bluetooth-enabled measurement tools with augmented reality applications to streamline data capture and synchronization, reducing errors and improving project efficiency.
 
 👩‍💻
 
