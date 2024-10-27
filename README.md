@@ -1,10 +1,12 @@
 # Measures that Matter (MtM)
 
-## Overview
+## 🛠️ Overview
 
-This project provides a solution for quickly collecting precise as-built measurement data in dynamic conditions, leveraging cutting-edge technology for real-time model updates. The process integrates Bluetooth-enabled measurement tools with augmented reality applications to streamline data capture and synchronization, reducing errors and improving project efficiency.
+for the hackathon at Chicago Innovate - This project provides a solution for quickly collecting precise as-built measurement data in dynamic conditions, leveraging cutting-edge technology for real-time model updates. The process integrates Bluetooth-enabled measurement tools with augmented reality applications to streamline data capture and synchronization, reducing errors and improving project efficiency.
 
-## Hardware
+👩‍💻
+
+## ⚙️ Hardware
 
 - **Reekon T1 Tape Measure**  
   [Reekon T1](https://www.reekon.tools/)
@@ -14,7 +16,7 @@ This project provides a solution for quickly collecting precise as-built measure
 - **Bosch Laser**  
   [Bosch GLM 50 C](https://www.boschtools.com/us/en/products/glm-50-c-0601072C10)
 
-## Software Stack
+## 💻 Software Stack
 
 - **Fologram**  
   Augmented reality platform to visualize measurements in real-time on mobile and desktop.  
@@ -26,7 +28,7 @@ This project provides a solution for quickly collecting precise as-built measure
 - **Python**  
   Bluetooth low energy communication using [Bleak](https://github.com/hbldh/bleak).
 
-## How It Works
+## 🔄 How It Works
 
 Our solution integrates the **Reekon T1 Bluetooth Tape Measure** and future integration with the **Bosch Laser** to capture accurate measurements. These devices are tethered to a smartphone, which provides orientation and position data, ensuring precise alignment in the virtual model. The **Fologram** application visualizes the measurement data in real-time on both the phone and desktop, updating the digital model dynamically as measurements are taken.
 
@@ -36,11 +38,11 @@ Our solution integrates the **Reekon T1 Bluetooth Tape Measure** and future inte
 2. **Phone Sensors**: The smartphone collects orientation and position data, tethering the measurements to the physical environment.
 3. **Fologram Visualization**: Data from the measurement tools and the phone are displayed in Fologram, enabling real-time updates to the Rhino model.
 
-## Why It Matters
+## 🌟 Why It Matters
 
 Traditional methods of as-built measurement collection are time-consuming, prone to human error, and often disconnected from the digital modeling process. Our system automates this process, allowing for quick, accurate, and dynamic measurement integration into the model, significantly reducing project timelines and improving data accuracy.
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -78,12 +80,12 @@ Pair Reekon T1 with Your Phone
 - Open the Rhino model and activate the Grasshopper script for real-time updates.
 - Begin taking measurements, and watch the model dynamically update with precise data.
 
-Future Work
+## 🔮 Future Work
 - Bosch Laser Integration: Future updates will integrate additional laser measurement tools for even greater precision.
 - Cloud Sync: Expand functionality to allow measurement data to be shared in real-time across teams.
 - Custom Interface: Build an intuitive user interface for easy navigation and use of the system.
 
-### Contributors
+## 👥 Contributors
 
 - Jo Kamm - Senior Design Technologist, DI
 - Bryan V. - Programer
