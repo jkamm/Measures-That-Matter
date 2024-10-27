@@ -95,4 +95,4 @@ Pair Reekon T1 with Your Phone
 - Edmond A. -Programer
 - Nathan Barnes - Computation Lead, Zahner
 
-Thank you to [Chicago Innovate](https://www.chicagoinnovate.tech/) for a great ime hacking!
+Thank you to [Chicago Innovate](https://www.chicagoinnovate.tech/) for a great time hacking!
