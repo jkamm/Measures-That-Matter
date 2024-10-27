@@ -90,7 +90,7 @@ Pair Reekon T1 with Your Phone
 - Jo Kamm - Senior Design Technologist, DI
 - Bryan V. - Programer
 - Hrushikesh Chavan - Architectural Designer, M.Arch, UIUC ‘24
-- Kevin - Full Stack Developer
+- Kevin Mark - Full Stack Developer
 - Alex Cardenas - Designer, Adrian Smith + Gordon Gill
 - Edmond A. -Programer
 - Nathan Barnes - Computation Lead, Zahner
