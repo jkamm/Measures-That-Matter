@@ -56,3 +56,41 @@ Traditional methods of as-built measurement collection are time-consuming, prone
 1. Clone this repository:
    ```bash
    git clone https://github.com/3dm0nd6/temp
+
+
+### Install dependencies:
+  ```bash
+  Copy code
+  pip install bleak
+
+### Setup Fologram
+- **Download and install Fologram on your mobile device and desktop.
+- **Follow Fologram's setup guide to connect with Rhino and Grasshopper.
+
+Pair Reekon T1 with Your Phone
+- **Ensure Bluetooth is enabled on your phone.
+- **Follow Reekon T1's instructions to pair it with your smartphone.
+- **Test the connection by taking a measurement and confirming it is sent to the phone.
+
+### Running the Application
+- **Start Fologram on both your phone and desktop.
+- **Connect the Reekon T1 and, optionally, the Bosch laser to your smartphone via Bluetooth.
+- **Open the Rhino model and activate the Grasshopper script for real-time updates.
+- **Begin taking measurements, and watch the model dynamically update with precise data.
+
+Future Work
+- **Bosch Laser Integration: Future updates will integrate additional laser measurement tools for even greater precision.
+- **Cloud Sync: Expand functionality to allow measurement data to be shared in real-time across teams.
+- **Custom Interface: Build an intuitive user interface for easy navigation and use of the system.
+
+### Contributors
+
+- **Jo Kamm - Senior Design Technologist, DI
+- **Bryan V. - Programer
+- **Hrushikesh Chavan - Architectural Designer, M.Arch, UIUC ‘24
+- **Kevin - Full Stack Developer
+- **Alex Cardenas - Designer, Adrian Smith + Gordon Gill
+- **Edmond A. -Programer
+- **Nathan Barnes - Computation Lead, Zahner
+
+Thank you to [Chicago Innovate](https://www.chicagoinnovate.tech/) for a great ime hacking!
