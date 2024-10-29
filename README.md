@@ -57,7 +57,7 @@ Traditional methods of as-built measurement collection are time-consuming, prone
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/3dm0nd6/temp
+   git clone https://github.com/3dm0nd6/measures-that-matter
 
 
 ### Install dependencies:
