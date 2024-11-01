@@ -5,6 +5,7 @@ from datetime import datetime
 from pynput.keyboard import Controller
 from bleak import BleakClient, BleakScanner
 from bleak.backends.characteristic import BleakGATTCharacteristic
+from measurement_logger import append_measurement
 
 charUUID = '00004301-0000-0041-5253-534f46540000'
 
@@ -22,6 +23,7 @@ def notification_handler(characteristic: BleakGATTCharacteristic, data: bytearra
         timestamp = datetime.now().strftime("%H:%M:%S")
         # Create a tuple with the timestamp and length
         measurement = (timestamp, round(length, 1), 'mm')
+        append_measurement("bosch_measurements.csv",measurement)
         logger.info("Measurement: %r", measurement)
         
         keyboard.type(f"{measurement}\n")

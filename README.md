@@ -76,7 +76,7 @@ Pair Reekon T1 with Your Phone
 
 ### Running the Application
 - Start Fologram on both your phone and desktop.
-- Connect the Reekon T1 and, optionally, the Bosch laser to your smartphone via Bluetooth.
+- Connect the Reekon T1 and, optionally, the Bosch laser to your computer via Bluetooth.
 - Open the Rhino model and activate the Grasshopper script for real-time updates.
 - Begin taking measurements, and watch the model dynamically update with precise data.
 
@@ -88,11 +88,11 @@ Pair Reekon T1 with Your Phone
 ## 👥 Contributors
 
 - Jo Kamm - Senior Design Technologist, DI
-- Bryan V. - Programer
+- Bryan V. - Programmer
 - Hrushikesh Chavan - Architectural Designer, M.Arch, UIUC ‘24
 - Kevin Mark - Full Stack Developer
 - Alex Cardenas - Designer, Adrian Smith + Gordon Gill
-- Edmond A. -Programer
+- Edmond Abraham -Programmer
 - Nathan Barnes - Computation Lead, Zahner
 
 Thank you to [Chicago Innovate](https://www.chicagoinnovate.tech/) for a great time hacking!
